@@ -1,8 +1,12 @@
-import logo from "./logo.svg";
 import "./App.css";
+import TripsList from "./componnets/TripsList";
 
 function App() {
-  return <div className="App"></div>;
+  return (
+    <div className="App">
+      <TripsList />
+    </div>
+  );
 }
 
 export default App;

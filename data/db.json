@@ -1,0 +1,34 @@
+{
+  "trips": [
+    {
+      "title": "7 Night stay in Kabul",
+      "price": "1000af",
+      "id": "1"
+    },
+    {
+      "title": "1 Night stay in Herat",
+      "price": "600af",
+      "id": "2"
+    },
+    {
+      "title": "3 Night stay in Ghazni",
+      "price": "900af",
+      "id": "3"
+    },
+    {
+      "title": "5 Night stay in Bamyan",
+      "price": "2000af",
+      "id": "4"
+    },
+    {
+      "title": "6 Night stay in Mazar",
+      "price": "3000af",
+      "id": "5"
+    },
+    {
+      "title": "2 Night stay in JalalAbad",
+      "price": "700af",
+      "id": "6"
+    }
+  ]
+}
