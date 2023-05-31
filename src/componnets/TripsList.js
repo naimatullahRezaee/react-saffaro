@@ -7,13 +7,15 @@ export default function TripsList() {
   // fetch("http://localhost:3000/trips")
   //   .then((response) => response.json())
   //   .then((json) => setTrip(json));
-
   // console.log(trips);
-  const trips = useFetch(url);
+
+  const { data: trips, isLoading, error } = useFetch(url);
 
   return (
     <div className="tirp-list">
       <h2>Trips List</h2>
+      {isLoading && <div> Loading Trips... </div>}
+      {error && <div> {error} </div>}
       <ul>
         {trips &&
           trips.map((trip) => (
