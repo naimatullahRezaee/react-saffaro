@@ -3,31 +3,37 @@
     {
       "title": "7 Night stay in Kabul",
       "price": "1000af",
+      "location": "Afghanistan",
       "id": "1"
     },
     {
       "title": "1 Night stay in Herat",
       "price": "600af",
+      "location": "Afghanistan",
       "id": "2"
     },
     {
       "title": "3 Night stay in Ghazni",
       "price": "900af",
+      "location": "Afghanistan",
       "id": "3"
     },
     {
       "title": "5 Night stay in Bamyan",
       "price": "2000af",
+      "location": "Iran",
       "id": "4"
     },
     {
       "title": "6 Night stay in Mazar",
       "price": "3000af",
+      "location": "Pakistan",
       "id": "5"
     },
     {
       "title": "2 Night stay in JalalAbad",
       "price": "700af",
+      "location": "Iran",
       "id": "6"
     }
   ]
